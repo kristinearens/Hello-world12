@@ -5,3 +5,4 @@ My first repository
 **Let's try bold**
 
 *How about this*
+- Bullet
