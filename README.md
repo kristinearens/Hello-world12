@@ -6,3 +6,4 @@ My first repository
 
 *How about this*
 - Bullet
+- Bullet 2
